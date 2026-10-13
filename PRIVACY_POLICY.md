@@ -50,11 +50,9 @@ library's identifier for the photo. It is synced between your own devices
 through Apple's iCloud key-value storage in your iCloud account; we never
 receive it. You can erase it at any time with Insights › Clear History.
 
-## Widgets and extensions
+## Extensions
 
-The Clean Up widget and Live Activity show numbers from your last scan,
-shared on your device through an app group. The share extension processes
-the photos you share with it on your device.
+The share extension processes the photos you share with it on your device.
 
 ## Purchases
 
