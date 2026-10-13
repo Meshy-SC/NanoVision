@@ -1,79 +1,75 @@
 # Privacy Policy for NanoVision
 
-**Last Updated:** June 7, 2026
+**Last Updated:** October 13, 2026
 
-## Overview
+NanoVision compresses, converts and cleans up your files on your device. We
+(the developer) run no servers, have no accounts, and collect no data. There
+is no analytics, advertising, tracking or crash-reporting code in the app.
 
-NanoVision ("the App") is an on-device media optimization toolkit for
-compressing and editing images, audio, PDFs, and adding watermarks. We are
-committed to protecting your privacy and being transparent about how the App
-handles your data. The short version: it doesn't leave your device.
+## What happens to your files
 
-## Data Collection
+- **Processing happens on your device.** Images, PDFs, video and audio you
+  open in NanoVision are processed on your iPhone, iPad, Mac or Apple Vision
+  Pro. NanoVision never uploads them anywhere.
+- **You choose what it can see.** Files come from the system photo picker,
+  the share sheet, the file picker or drag and drop, and NanoVision only
+  receives what you select. Results are saved where you choose.
+- **Folders (Mac).** Folder Optimize and the Watched Folder keep access to a
+  folder you picked, so they can work on it again later. You can stop
+  watching or change the folder at any time in the app.
 
-NanoVision does **not** collect, store, or transmit any user data to our
-servers. We have no servers, no databases, no accounts, and no access to your
-information.
+## Clean Up
 
-Every file you process — and every setting you choose — stays **entirely on
-your device**. All compression, conversion, and editing happens locally using
-Apple's on-device frameworks. Nothing is uploaded.
+- **iPhone and iPad.** Clean Up asks for access to your photo library so it
+  can find duplicates, screenshots, blurry shots, screen recordings, Live
+  Photos and large videos. The scan runs on your device. Nothing is deleted
+  unless you select it, iOS asks you to confirm every deletion, and deleted
+  items stay in Photos › Recently Deleted for 30 days. "Shrink" replaces a
+  photo or video with a smaller copy only after you approve it; the original
+  goes to Recently Deleted.
+- **Mac.** To measure caches, logs, old downloads and similar files, Clean Up
+  asks you to choose your home folder. It reads file sizes and dates there;
+  it moves only the items you select to the Trash, where you can restore
+  them. You can revoke this access in Settings.
 
-### We Do NOT Collect
+## iCloud Photos (optional, iPhone and iPad)
 
-- Personal identification information
-- The files, images, audio, or documents you process
-- Location data
-- Usage analytics or tracking
-- Advertising identifiers
-- Any data whatsoever
+If you connect iCloud Photos under Clean Up › Cloud storage, NanoVision uses
+the same photo-library access to make smaller copies of large photos and
+videos on your device. It shows you a before/after first, and iOS asks you
+to confirm before any original is replaced; originals stay in Recently
+Deleted for 30 days. Any syncing of your library is done by Apple's iCloud
+Photos, between your devices and your iCloud account — not by NanoVision.
 
-## Data Storage
+## History and Insights
 
-The files you work with stay under your control:
+To show your savings and to recognize files it has already optimized,
+NanoVision keeps a history on your device: file names, file sizes, dates,
+content fingerprints (SHA-256 hashes) and, for photo-library items, the
+library's identifier for the photo. It is synced between your own devices
+through Apple's iCloud key-value storage in your iCloud account; we never
+receive it. You can erase it at any time with Insights › Clear History.
 
-1. The source files you open remain wherever you keep them.
-2. Optimized output is saved only where you choose to save it.
+## Widgets and extensions
 
-NanoVision keeps no copies, no history, and no cloud backup of your content. We
-have **zero access** to anything you process.
+The Clean Up widget and Live Activity show numbers from your last scan,
+shared on your device through an app group. The share extension processes
+the photos you share with it on your device.
 
-## Network Access
+## Purchases
 
-NanoVision works fully offline. The App does not require an internet connection
-and does not send your files or any other data over the network.
+NanoVision Pro is an in-app purchase handled entirely by Apple. We do not
+receive your payment information or Apple Account details.
 
-## Third-Party Services
+## Children
 
-NanoVision uses **no** third-party analytics, advertising, or data-sharing
-services. The only outbound links in the App are the ones you tap intentionally
-— such as opening this Privacy Policy, the Support page, or a feedback email.
+NanoVision does not collect personal information from anyone, including
+children.
 
-## Data Sharing
+## Changes
 
-We do **not**:
-
-- Sell your data
-- Share your data with third parties
-- Use your data for advertising
-- Track your behavior
-
-## Your Rights
-
-Because everything is stored on your device, you remain in full control:
-
-- **Delete your data** by removing the files you created and/or deleting the App.
-- **Export your data** — your optimized files are ordinary files you save yourself.
-
-## Children's Privacy
-
-NanoVision does not knowingly collect data from children under 13. Since the App
-collects no data at all, this applies to users of every age.
-
-## Changes to This Policy
-
-We may update this policy. Continued use of the App after changes constitutes
-acceptance.
+If NanoVision ever starts handling data differently, this policy will be
+updated before that version is released, and the date above will change.
 
 ## Contact
 
